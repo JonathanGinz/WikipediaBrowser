@@ -27,3 +27,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/DB/simplewiki-20170820-pages-meta-current.xml
